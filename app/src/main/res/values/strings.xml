@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BasicUI</string>
+    <string name="greeting">Hello Tulsa Tech!</string>
+</resources>
